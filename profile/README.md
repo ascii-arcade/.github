@@ -4,4 +4,4 @@ We create and host a collection of interactive games accessible via SSH. We prov
 
 ## 🚀 Our Games
 
-Run `curl https://ascii-arcade.org/games` to get a list of all currently available games.
+Run `curl https://ascii-arcade.games` to get a list of all currently available games.
